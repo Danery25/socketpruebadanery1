@@ -1,24 +1,23 @@
 
 
-#Server Danery
-Recontruir modulos de node
+# Socket-Server
+
+
+Reconstruir módulos de Node
 ```
 npm install
-````
-
-Generar el dist
-````
-tsc -w
-
-levantar servidor cualquiera de los dos comandos 
 ```
-nodemon dist /
 
+Generar el DIST
+```
+tsc -w
+```
+
+Levantar servidor, cualquiera de estos dos comandos
+```
+nodemon dist/
 node dist/
-
-
-``
-
+```
 
 
 
